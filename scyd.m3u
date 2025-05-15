@@ -1092,7 +1092,7 @@ https://cdn3.163189.xyz/live/j1/stream.m3u8
 
 #EXTINF:-1,tvg-id="環球電視台" tvg-name="環球電視台" tvg-logo="https://d.kstore.dev/download/8109/%E7%92%B0%E7%90%83%E9%9B%BB%E8%A6%96%E5%8F%B0.jpg" group-title="港澳台TL",環球電視台
 
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #EXTINF:-1,tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://d.kstore.dev/download/8109/%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96.jpg" group-title="港澳台TL",人間衛視
 
